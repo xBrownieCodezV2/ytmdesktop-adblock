@@ -8,13 +8,13 @@ This is a fork of https://github.com/ytmdesktop/ytmdesktop
 
 # Available for
 
-<a href="https://repology.org/project/ytmdesktop/versions"><img src="https://repology.org/badge/vertical-allrepos/ytmdesktop.svg" alt="Packaging status" align="right"></a>
-
 ## Windows
 - Binaries: https://github.com/ytmdesktop/ytmdesktop/releases
 
 
+
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
 
 ```bash
 # Clone this repository
