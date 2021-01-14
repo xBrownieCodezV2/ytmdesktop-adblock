@@ -9,3 +9,4 @@ dist
 assets/custom-theme.css
 app-update.yml
 dev-app-update.yml
+build/config.gypi
