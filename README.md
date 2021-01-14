@@ -8,7 +8,7 @@ This is a fork of https://github.com/ytmdesktop/ytmdesktop
 
 # Available for
 
-## Windows
+## Windows, Linux
 - Binaries: https://github.com/ytmdesktop/ytmdesktop/releases
 
 
